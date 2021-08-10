@@ -39,7 +39,7 @@ lvs D-nat 模式
    1. 无法直接返回所以，需要服务器的网关，是 lvs 服务器
 4. lvs 修改数据包    vip:vprot  -   cip:cport
 
-![image-20210810173146347](C:\Users\wbjiaojian\Desktop\github\Docs\document\notes\架构\lvs img\image-20210810173146347.png)
+![image-20210810173146347](lvs img\image-20210810173146347.png)
 
 ---
 
@@ -53,7 +53,7 @@ lvs  DR 模型
 
 3. 服务器返回数据包     vip:vprot  -   cip:cport
 
-   ![image-20210810173843973](C:\Users\wbjiaojian\Desktop\github\Docs\document\notes\架构\lvs img\image-20210810173843973.png)
+   ![image-20210810173843973](lvs img\image-20210810173843973.png)
 
 ----
 
